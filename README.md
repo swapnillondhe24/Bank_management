@@ -1,6 +1,8 @@
 # Bank_management
 > An mini project for C language demonstrating the bank management system.
-> I made it using C in JAN 2018 for PCI (Programming In C language(22226)) at Amrutvahini Polytechnic.
+   I made it using C in JAN 2018 for PCI (Programming In C language(22226)) at Amrutvahini Polytechnic.
+
+This project relies on File handling for its functionality. 
 
 
 #### This Mini project implements
